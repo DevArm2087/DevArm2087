@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @DevArm2087
-- 👀 I’m interested in web developing
-- ⚡ About Me : hello I am a software engineer and I am proficient in computers and I am active in the development and design sector and I know full stack web design and I welcome an invitation to cooperate with you.
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact👋 Hi, I'm Mohammad Arshadi!<br><br>-----------------------------------------------------------<br><br>🛠 What I Do:<br><br>I am a full-stack developer and designer dedicated to crafting modern and luxurious websites.<br>My skills include:<br><br>⚛️ React & Vite for building fast, responsive, and interactive front-end applications.<br><br>🐍 Django & Python for developing robust back-end solutions that power dynamic web applications.<br><br>🎨 Designing beautiful and user-friendly interfaces using Figma, ensuring a seamless user journey from start to finish.<br><br><br>-----------------------------------------------------------<br><br>📚 Experience:<br><br>My professional background includes working at one of Iran's leading programming companies, where I honed my skills in software development and project management.<br><br>Proficient in JetBrains tools for back-end development and VSCode for front-end projects, ensuring a streamlined development workflow.<br><br>-----------------------------------------------------------<br><br>🌟 Current Focus:<br><br>I am committed to building luxury websites that combine cutting-edge design with exceptional functionality.<br><br>I strive to exceed client expectations by delivering top-notch websites that not only look great but also perform flawlessly.<br><br>-----------------------------------------------------------<br><br>🤝 Collaboration and Growth:<br><br>I believe in the power of collaboration and continuous learning. I am always open to new ideas and partnerships that push creative boundaries.<br><br>Let's connect and explore how we can create something amazing together!<br><br>-----------------------------------------------------------<br><br>📞 Get In Touch  :<br><br>Telegram  :  DevArm2087<br><br>Instagram  :  DevArm2087 <br><br>Phone  :  +98   994-427-5574 📞<br><br>Email  :  devarm2087 <br><br>
 
-<!---
-DevArm2087/DevArm2087 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/devarm2087) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devarm2087) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devarm2087) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/devarm2087) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DevArm2087&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevArm2087&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevArm2087&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=DevArm2087&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=DevArm2087&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
